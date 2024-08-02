@@ -18,7 +18,6 @@ The dataset comprises 40 years of historical NBA game data, sourced from a trust
    - Automated the daily scraping process to update the dataset with new game data.
 
 2. **Model Development**:
-   - Employed various machine learning models, including logistic regression and neural networks.
    - Conducted thorough data analysis and feature engineering to enhance model performance.
 
 3. **Evaluation**:
